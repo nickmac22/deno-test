@@ -14,6 +14,7 @@ export default function AboutPage() {
     <main>
       <h1>About</h1>
       <p>This is the about page.</p>
+      <p> And this is a test</p>
     </main>
   );
 }
